@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm AMOL KAMBLE!
+# 👋 Hi there, I'm AMOL Kinikar!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building tech projects, learning new technologies, and sharing knowledge through my YouTube channel.
 
